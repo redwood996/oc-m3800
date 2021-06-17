@@ -23,11 +23,10 @@ Works and tested:
 + iMessage, FaceTime
 
 
-Not/partially working: sleeps ok but black screen after wake up
-- sleep & wake on battery and AC power
-- Lid close sleep & wakesup after Lid open
-- Deep sleep
-- Touchable screen
+Not/partially working
+- sleep & wake on battery and AC power (sleeps ok but black screen after wake up)
+- Lid close sleep & wakesup after Lid open (sleeps ok but black screen after wake up)
+- Touchable screen (no response)
 
 
 Customize fan control:
