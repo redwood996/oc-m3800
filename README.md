@@ -17,7 +17,6 @@ Works and tested:
 + night shift
 + camera
 + disabled Nvidia
-+ Toughable screen
 + 4k/60Hz internal screen - BigSur / no screen flickering
 + light sensor
 + Touchpad with guestures
@@ -28,6 +27,7 @@ Not/partially working: sleeps ok but black screen after wake up
 - sleep & wake on battery and AC power
 - Lid close sleep & wakesup after Lid open
 - Deep sleep
+- Touchable screen
 
 
 Customize fan control:
